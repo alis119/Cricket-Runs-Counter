@@ -40,6 +40,7 @@ button{
   font-size: 17px;
   border-radius: 5px;
   color: white;
+  cursor: pointer;
 }
 .six{
   background-color: orange;
